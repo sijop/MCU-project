@@ -29,7 +29,7 @@ This homework is to specify a Future Home application and describe the key featu
 ### 系統方塊圖
 ![](https://github.com/rkuo2000/MCU-course/tree/main/_posts)
 ![](https://github.com/fairpus/MCU-Arduinoproject/blob/main/images/Raiden_Shogun_in_Genshin_Impact.jpg)
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/zwWg6hkj6mU" title="【釣魚日記】居然一個人包池的雲海溫泉….還有竿竿咬的點...新手也不會喊累..真是完美的一趟旅程........fishing｜采蓁 Patti ＠雲海溫泉" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="1239" height="697" src="https://www.youtube.com/embed/glSWHWrqFq0" title="【原神研究室】雷電將軍抽不抽⚡▸兼具輸出作用的充能輔助七神! 大招瞬發高爆發、速切大招不用省✨聖遺物/命座建議/天賦/武器/組隊搭配 ▹璐洛洛◃" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <br>
 <br>
