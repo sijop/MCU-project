@@ -27,7 +27,7 @@ This homework is to specify a Future Home application and describe the key featu
 3. 電子鼻：氣味感測與辨識 MQ2
 
 ### 系統方塊圖
-![](https://github.com/rkuo2000/MCU-course/blob/main/images/FutureHome_kitchen_robot.png?raw=true)
+![](https://github.com/rkuo2000/MCU-course/tree/main/_posts)
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/zwWg6hkj6mU" title="【釣魚日記】居然一個人包池的雲海溫泉….還有竿竿咬的點...新手也不會喊累..真是完美的一趟旅程........fishing｜采蓁 Patti ＠雲海溫泉" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
