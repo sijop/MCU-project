@@ -9,22 +9,22 @@ tags: [jekyll, ai]
 This homework is to specify a Future Home application and describe the key features, list all Design Considerations and the required technologies, then draw the System Block Diagram.
 
 ---
-## 料理機器人
+## 打掃機器人
 ### 應用功能說明
-1. 操作廚具：咖啡機＋果汁機＋烤麵包機＋微波爐+烤箱+氣炸鍋
-2. 存取冰箱：辨識食物, 存放食材，或取出食材, 送至廚具
+1. 打掃房間:掃地、拖地、擦窗戶、整理環境垃圾
+2. 倒垃圾:回收分類、打包垃圾
 
 ### 設計考量與相關技術
 **系統設計考量：**<br>
-1. 操作方式:垂直升降式手臂 or 懸吊式手臂
-2. 移動方式:兩輪 or 滑軌懸吊
+1. 操作方式:面板控制
+2. 移動方式:機器腳
 3. 供電方式:鋰電池
-4. 聯網方式:WiFi或BT to 手機
+4. 聯網方式:WiFi
 
 **所需相關技術：**
-1. 滑軌式機器手臂 ＆ 軟式夾具
-2. 食物辨識分類：Jetson-Nano + IMX219
-3. 電子鼻：氣味感測與辨識 MQ2
+1. 機器手臂 ＆ 機械腳
+2. 影像識別
+3. 自動充電系統
 
 ### 系統方塊圖
 ![](https://github.com/rkuo2000/MCU-course/tree/main/_posts)
