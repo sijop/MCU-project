@@ -27,7 +27,7 @@ This homework is to specify a Future Home application and describe the key featu
 3. 自動充電系統
 
 ### 系統方塊圖
-![](https://github.com/fairpus/MCU-Arduinoproject/blob/main/images/homework%20robot.png)
+![](https://github.com/fairpus/MCU-Arduinoproject/blob/main/images/homework%20robot.jpg)
 <iframe width="1239" height="697" src="https://www.youtube.com/embed/glSWHWrqFq0" title="【原神研究室】雷電將軍抽不抽⚡▸兼具輸出作用的充能輔助七神! 大招瞬發高爆發、速切大招不用省✨聖遺物/命座建議/天賦/武器/組隊搭配 ▹璐洛洛◃" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <br>
