@@ -33,6 +33,8 @@ This project is to implement a bluetooth remote controlled robotcar.
 
 ### 系統方塊圖
 ![](https://github.com/fairpus/MCU-Arduinoproject/blob/main/images/btcar.png?raw=true)
+###實作演示
+![](https://github.com/fairpus/MCU-Arduinoproject/blob/main/images/btcar.png?raw=true)
 
 <br>
 <br>
