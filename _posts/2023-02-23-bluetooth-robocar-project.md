@@ -34,8 +34,18 @@ This project is to implement a bluetooth remote controlled robotcar.
 ### 系統方塊圖
 ![](https://github.com/fairpus/MCU-Arduinoproject/blob/main/images/btcar.png?raw=true)
 ### 實作演示
-![](https://github.com/fairpus/MCU-Arduinoproject/blob/main/images/forward.mp4?raw=true)
 
+forward
+<iframe width="500" height="890" src="https://www.youtube.com/embed/2fNPUtyySTA" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+backward
+<iframe width="500" height="890" src="https://www.youtube.com/embed/h4vAQ1LCHDg" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+turn left
+<iframe width="500" height="890" src="https://www.youtube.com/embed/G_I6EDTh9iU" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+turn right
+<iframe width="500" height="890" src="https://www.youtube.com/embed/BfN3hozVdJY" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <br>
 <br>
 
