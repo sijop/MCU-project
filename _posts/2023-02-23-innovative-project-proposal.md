@@ -9,7 +9,7 @@ tags: [jekyll, ai]
 This homework is to specify a Future Home application and describe the key features, list all Design Considerations and the required technologies, then draw the System Block Diagram.
 
 ---
-## 打掃機器人
+## 居家整潔機器人
 ### 應用功能說明
 1. 能依照規劃移動並監控家中狀態
 2. 能單方面傳送影像及雙方傳送聲音
