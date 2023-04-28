@@ -27,7 +27,7 @@ This homework is to specify a Future Home application and describe the key featu
 3. 自動充電系統
 
 ### 系統方塊圖
-![](https://github.com/fairpus/MCU-Arduinoproject/blob/c0a5413337b0109f4e53203bc6ab5e65a75184b9/images/homework%20robot.jpg?raw=true)
+![](https://github.com/sijop/MCU-project/blob/main/images/%E5%BE%AE%E8%BB%9F%E9%AB%94%E6%A8%B9%E6%9E%9D%E5%9C%96.jpgraw=true)
 
 <br>
 <br>
