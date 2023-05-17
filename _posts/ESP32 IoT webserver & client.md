@@ -11,7 +11,7 @@ tags: [jekyll, ai]
 
 
 ### 圖
-![](https://github.com/sijop/MCU-project/blob/main/images/%E5%BE%AE%E8%BB%9F%E9%AB%94%E6%A8%B9%E6%9E%9D%E5%9C%96.jpg?raw=true)
+![](https://github.com/sijop/MCU-project/blob/main/images/tmp_IMG20230504213325603499433494578869.jpg?raw=true)
 
 <br>
 <br>
