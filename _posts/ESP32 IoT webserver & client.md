@@ -1,7 +1,5 @@
 ---
-layout: post
-title: 
-tags: [jekyll, ai]
+
 ---
 
 ---
