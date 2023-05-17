@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Innovation Project Proposal
-author: [Sung-Ping Chen]
+author: [Wei-Shang Chang]
 category: [Lecture]
 tags: [jekyll, ai]
 ---
