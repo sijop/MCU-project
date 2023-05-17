@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Innovation Project Proposal
+title: ESP32 IoT webserver & client
 author: [Wei-Shang Chang]
 category: [Lecture]
 tags: [jekyll, ai]
