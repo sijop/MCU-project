@@ -1,6 +1,6 @@
 ---
 layout: post
-title: IoT Thinkspeak.com
+title: IoT Thinkspeak
 author: [Wei-Sheng Chang]
 category: [Lecture]
 tags: [jekyll, ai]
