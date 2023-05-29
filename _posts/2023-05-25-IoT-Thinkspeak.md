@@ -84,26 +84,37 @@ void loop() {
   ++value;
 
   Serial.print("connecting to ");
+  
   Serial.println(host);
   
   // Use WiFiClient class to create TCP connections
   WiFiClient client;
+  
   const int httpPort = 80;
+  
   if (!client.connect(host, httpPort)) {
     Serial.println("connection failed");
     return;
   }
 
   String temp = String(dht.readTemperature());
+  
   String humidity = String(dht.readHumidity());
+  
   String url = "/update?key=";
+  
   url += thingspeak_key;
+  
   url += "&field1=";
+  
   url += temp;
+  
   url += "&field2=";
+  
   url += humidity;
   
   Serial.print("Requesting URL: ");
+  
   Serial.println(url);
   
   // This will send the request to the server
