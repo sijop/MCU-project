@@ -15,7 +15,7 @@ tags: [jekyll, ai]
 #include <WiFi.h> 
 #include "DHT.h"
 
-#define DHTPIN 23     // NodeMCU pin D6 connected to DHT11 pin Data
+#define DHTPIN 23
 DHT dht(DHTPIN, DHT11, 15);
 
 const char* ssid     = "wifi name";
@@ -46,9 +46,8 @@ void setup() {
   dht.begin();
   delay(10);
   
-
   // We start by connecting to a WiFi network
-
+  
   Serial.println();
   Serial.println();
   Serial.print("Connecting to ");
