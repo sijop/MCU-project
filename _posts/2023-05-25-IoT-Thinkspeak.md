@@ -13,16 +13,19 @@ tags: [jekyll, ai]
 ---
 ## 程式碼
 #include <WiFi.h> 
+
 #include "DHT.h"
 
 #define DHTPIN 23
+
 DHT dht(DHTPIN, DHT11, 15);
 
 const char* ssid     = "wifi name";
+
 const char* password = "wifi password";
 
-
 const char* host = "api.thingspeak.com";
+
 const char* thingspeak_key = "your_Write_API_Key";
 
 void turnOff(int pin) {
@@ -34,13 +37,21 @@ void setup() {
   Serial.begin(115200);
 
   // disable all output to save power
+  
   turnOff(0);
+  
   turnOff(2);
+ 
   turnOff(4);
+  
   turnOff(5);
+  
   turnOff(12);
+ 
   turnOff(13);
+  
   turnOff(14);
+  
   turnOff(15);
 
   dht.begin();
