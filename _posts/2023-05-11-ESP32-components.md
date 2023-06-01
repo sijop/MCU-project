@@ -5,7 +5,7 @@ author: [Wei-Sheng Chang]
 category: [Lecture]
 tags: [jekyll, ai]
 ---
-## 圖
+## 成果圖
 ![](https://github.com/sijop/MCU-project/blob/main/images/shaking.jpg?raw=true)
 ![](https://github.com/sijop/MCU-project/blob/main/images/plane-photo.jpg?raw=true)
 <br>
