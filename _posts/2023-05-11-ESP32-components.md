@@ -14,7 +14,7 @@ tags: [jekyll, ai]
 
 ---
 ## 程式碼
-""
+"""
 
 #include "Kalman.h" // Source: https://github.com/TKJElectronics/KalmanFilter
 #include "I2Cdev.h" 
@@ -179,7 +179,7 @@ void loop() {
   Serial.print("\r\n");
   delay(2);
 }
-""
+"""
 <br>
 <br>
 
