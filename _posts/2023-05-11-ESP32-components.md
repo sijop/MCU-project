@@ -15,11 +15,10 @@ tags: [jekyll, ai]
 ---
 ## 程式碼
 """
-
 #include "Kalman.h" // Source: https://github.com/TKJElectronics/KalmanFilter
 #include "I2Cdev.h" 
 #if I2CDEV_IMPLEMENTATION == I2CDEV_ARDUINO_WIRE
-    #include "Wire.h"
+#include "Wire.h"
 #endif
 #include "MPU6050.h"
 // nodeMCU I2C default SCL : D1, SDA : D2
