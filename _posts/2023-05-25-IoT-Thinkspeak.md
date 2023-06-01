@@ -5,10 +5,12 @@ author: [Wei-Sheng Chang]
 category: [Lecture]
 tags: [jekyll, ai]
 ---
+## 方塊圖
+
+
+---
 ## DHT11 溫度和濕度圖
 ![](https://github.com/sijop/MCU-project/blob/main/images/349235274_104233512683437_8585855723182126524_n.jpg?raw=true)
-<br>
-<br>
 
 ---
 ## 程式碼
@@ -16,17 +18,12 @@ tags: [jekyll, ai]
 #include <WiFi.h> 
 
 #include "DHT.h"
-
 #define DHTPIN 23
 
 DHT dht(DHTPIN, DHT11, 15);
-
 const char* ssid     = "wifi name";
-
 const char* password = "wifi password";
-
 const char* host = "api.thingspeak.com";
-
 const char* thingspeak_key = "your_Write_API_Key";
 
 void turnOff(int pin) {
@@ -139,5 +136,8 @@ void loop() {
   delay(1*10*1000);
 }
 ""
+<br>
+<br>
+
 *This site was last updated {{ site.time | date: "%B %d, %Y" }}.*
 
