@@ -6,6 +6,8 @@ category: [Lecture]
 tags: [jekyll, ai]
 ---
 
+This homework is the System Block Diagram.
+---
 ### 方塊圖
 
 ![](https://github.com/sijop/MCU-project/blob/main/images/iot.jpg?raw=true)
