@@ -37,19 +37,12 @@ void setup() {
   // disable all output to save power
   
   turnOff(0);
-  
   turnOff(2);
- 
   turnOff(4);
-  
   turnOff(5);
-  
   turnOff(12);
- 
   turnOff(13);
-  
   turnOff(14);
-  
   turnOff(15);
 
   dht.begin();
