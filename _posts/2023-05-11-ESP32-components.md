@@ -9,15 +9,15 @@ tags: [jekyll, ai]
 This homework is to specify a Future Home application and describe the key features, list all Design Considerations and the required technologies, then draw the System Block Diagram.
 
 ---
-## 方塊圖
+### 方塊圖
 ![](https://github.com/sijop/MCU-project/blob/main/images/fly.jpg?raw=true)
 ---
-## 成果圖
+### 成果圖
 ![](https://github.com/sijop/MCU-project/blob/main/images/shaking.jpg?raw=true)
 ![](https://github.com/sijop/MCU-project/blob/main/images/plane-photo.jpg?raw=true)
 
 ---
-## 程式碼
+### 程式碼
 ```
 #include "Kalman.h" // Source: https://github.com/TKJElectronics/KalmanFilter
 #include "I2Cdev.h" 
