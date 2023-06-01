@@ -18,7 +18,7 @@ tags: [jekyll, ai]
 ---
 ## 程式碼
 (含LED)
-""""
+""
 /*
   Rui Santos
   Complete project details
@@ -259,7 +259,7 @@ void loop() {
   ws.cleanupClients();
   digitalWrite(ledPin, ledState);
 }
-""""
+""
 <br>
 <br>
 
