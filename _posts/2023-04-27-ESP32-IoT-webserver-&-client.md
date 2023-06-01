@@ -4,9 +4,9 @@ title: ESP32 IoT webserver & client
 author: [Wei-Shang Chang]
 category: [Lecture]
 tags: [jekyll, ai]
----
 
-This homework is the System Block Diagram.
+---
+This project is homework.
 ---
 ### 方塊圖
 
