@@ -6,7 +6,7 @@ category: [Lecture]
 tags: [jekyll, ai]
 ---
 ## 方塊圖
-
+![](https://github.com/sijop/MCU-project/blob/main/images/think.jpg?raw=true)
 
 ---
 ## DHT11 溫度和濕度圖
@@ -14,7 +14,7 @@ tags: [jekyll, ai]
 
 ---
 ## 程式碼
-""
+"""
 #include <WiFi.h> 
 
 #include "DHT.h"
@@ -135,7 +135,7 @@ void loop() {
   //system_deep_sleep(1 * 60 * 1000000);
   delay(1*10*1000);
 }
-""
+"""
 <br>
 <br>
 
