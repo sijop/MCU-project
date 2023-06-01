@@ -13,12 +13,10 @@ This homework is to specify a Future Home application and describe the key featu
 
 ![](https://github.com/sijop/MCU-project/blob/main/images/iot.jpg?raw=true)
 
----
 ### 成果圖
 
 ![](https://github.com/sijop/MCU-project/blob/main/images/tmp_received.jpg?raw=true)
 
----
 ### 程式碼
 
 ```
