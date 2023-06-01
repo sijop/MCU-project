@@ -14,7 +14,7 @@ tags: [jekyll, ai]
 
 ---
 ## 程式碼
-"""
+```
 #include <WiFi.h> 
 
 #include "DHT.h"
@@ -128,7 +128,7 @@ void loop() {
   //system_deep_sleep(1 * 60 * 1000000);
   delay(1*10*1000);
 }
-"""
+```
 <br>
 <br>
 
