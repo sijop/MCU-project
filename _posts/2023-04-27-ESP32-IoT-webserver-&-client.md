@@ -18,10 +18,9 @@ tags: [jekyll, ai]
 ---
 ### 程式碼
 """
-//
+
 // ESP32 Webserver to receive data from Webclients
 // To use a web browser to open IP address of this webserver 
-//
 #include <WiFi.h> 
 #include <WebServer.h>
 
